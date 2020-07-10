@@ -8,5 +8,8 @@ public class Main {
 
         // TODO: Call each CD and DVD method to verify that they work as expected.
 
+    CD greatAlbum = new CD();
+
+    DVD greatMovie = new DVD();
     }
 }
